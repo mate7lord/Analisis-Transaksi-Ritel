@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="SZ2j08lHqozlLIdM5YBz">
+    <mxGraphModel dx="3957" dy="2578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 42px;&quot;&gt;Requirements&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px; font-weight: normal;&quot;&gt;1. Display overall transaction performance&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Metrics: total sales, total customers who transacted, profit, total discount, quantity of goods&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px; font-weight: normal;&quot;&gt;2. Know the sales trend&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;line : sales/revenue vs time&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px; font-weight: normal;&quot;&gt;3. Know the performance of each payment method&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;how many transactions from each payment method&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;transaction value per payment method -&amp;gt; bar chart, column, pie chart&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px; font-weight: normal;&quot;&gt;4. Knowing which products sell best&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;how much sales value for each product -&amp;gt; bar chart, column, pie&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px; font-weight: normal;&quot;&gt;5. Knowing the spending for discount&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;discount value of product/product category&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px; font-weight: normal;&quot;&gt;6. Summary of transactions for each product and consumer&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;product A, how many sales, how much revenue, how much profit, how much discount&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;consumer A, how many transactions, how much revenue, how much profit&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: normal; font-weight: normal;&quot;&gt;&lt;font face=&quot;w-AOtz2ZHcxzpZO0PvrA&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;lt;Table&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-480" width="1400" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SALES&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;QTY&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PROFIT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DISCOUNT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CONSUMERS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LINE CHART REVENUE/SALES OVER TIME&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="385" width="770" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;NUMBER OF TRANSACTIONS PER PAYMENT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="750" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;VALUE PER PAYMENT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="750" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;NUMBER OF TRANSACTIONS PER PRODUCT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1000" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;VALUE PER PRODUCT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1010" width="270" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DISCOUNT/PRODUCT,CATEGORY&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1240" width="780" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SUMMARY PRODUCT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1550" width="780" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ44ms3VM1Gatlt2BW3P-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SUMMARY CONSUMERS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1780" width="780" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
